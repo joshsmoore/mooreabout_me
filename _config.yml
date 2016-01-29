@@ -4,7 +4,7 @@ email:       josh@mooreabout.me
 author:      Josh Mooore
 description: "The personal blog of Josh Moore, sharing everything from using iPads and writing code to personal stuff.  Really just a place for me to share."
 baseurl:     ""
-url:         "https://mooreabout.me"
+url:         "http://mooreabout.me"
 date_format: "%b %-d, %Y"
 
 # Google analytics
