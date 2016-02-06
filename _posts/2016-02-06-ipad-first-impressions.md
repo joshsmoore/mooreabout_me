@@ -6,7 +6,7 @@ summary:    First impressions of the iPad Pro
 published: true
 categories: iPad
 ---
-
+Jerk
 # iPad Pro, First thoughts
 
 I got my iPad Pro today.  I got it to be my personal computer.  You might be wondering how a full-time programmer can use an iPad Pro as a personal computer, and the answer is I cannot.  Well, I cannot do it for writing code.  But, writing code is only part of what do with a computer.  The other part is family finances, writing blog entries, photo management, web browsing, etc.  As I was thinking about the many other things I use a computer for I determined that an iPad Pro would work fine.  Personally, when it comes to using a computer it goes past the functionality, and I ask myself do I enjoy the iOS experience?  The thing is the iPad experience just makes me happy.  I had been doing a lot of the before mentioned tasks on my iPad Air 2 and just really enjoyed the experience.  I will quote Myke Hurley to better express my feelings.
