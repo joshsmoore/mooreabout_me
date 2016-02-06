@@ -3,6 +3,7 @@ layout:     post
 title:      iPad pro, first thoughts
 date:       2016-02-06 15:10:00
 summary:    First impressions of the iPad Pro
+published: true
 categories: iPad
 ---
 
