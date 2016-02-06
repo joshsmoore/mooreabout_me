@@ -1,11 +1,12 @@
 ---
 layout:     post
-title:      iPad ro, first thoughts
+title:      iPad Pro, first thoughts
 date:       2016-02-05 15:10:00
 summary:    First impressions of the iPad Pro
 published: true
 categories: iPad
 ---
+
 
 ![ipad](/images/ipad_pro_first_thoughts/ipad.jpeg)
 
