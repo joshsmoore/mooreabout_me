@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      iPad pro, first thoughts
+title:      iPad ro, first thoughts
 date:       2016-02-05 15:10:00
 summary:    First impressions of the iPad Pro
 published: true
