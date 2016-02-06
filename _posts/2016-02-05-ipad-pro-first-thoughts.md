@@ -20,7 +20,7 @@ My initial impressions of split view on the iPad Pro are extremely positive.  Wh
 
 The on-screen keyboard is different.  I think in the end I will be able to make better time with it than the iPad Air keyboard.  But, until then I am always hitting the delete key or accidentally changing the language.  I need to build my muscle memory for the new layout. But, I think overall it will be much better for typing than the iPad Air keyboard, once I get used to it.  
 
-## smart Keyboard
+## Smart Keyboard
 
 Why did I get the smart keyboard?  At best the reviews are mixed.  Honestly, it came down to three simple reasons
 
