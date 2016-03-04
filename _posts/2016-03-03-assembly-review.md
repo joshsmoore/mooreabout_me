@@ -1,12 +1,11 @@
 ---
 layout:     post
-title:      Assembly Review
+title:      Assembly, Art creation for Engineers
 summary:    Review of the Assembly drawing application for iOS.
 published: true
 categories: iPad
 ---
 
-# Assembly, Art creation for Engineers
 
 I came across [Assembly](https://itunes.apple.com/us/app/assembly-graphic-design-for/) a couple of days ago, and I love it.  Before I say more, I should tell you a little bit more about myself.  I am an engineer with no artistic talent.  You have to take my word on this one *no* artistic talent.  But, I have always loved the idea of drawing, photography, and other forms of visual creation.  However, I have never taken the time to learn, and when I have, I have always been disappointed with the results (once again no artistic talent here).  But, I started using Assembly and within a single day I had created a picture that I like.
 
